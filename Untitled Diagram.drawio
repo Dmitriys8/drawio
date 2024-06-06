@@ -1,24 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T12:02:30.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="vSC0EJLTs_tWGc7SDtk7" version="24.4.15" type="github">
-  <diagram name="Page-1" id="VSntDwxPWXnSgA7huMS9">
-    <mxGraphModel dx="1461" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-06-06T12:05:01.441Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" version="24.4.15" etag="_7_V9YtCLmYMhyR5zZWb" type="github">
+  <diagram name="Page-1" id="Obk5Q5juzl2-24iUYBb0">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object placeholders="1" c4Name="User Name" c4Type="User Type" c4Description="Description of User." label="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[%c4Type%]&lt;/font&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="YA2zRdpT1ZW4sB87_xnx-1">
-          <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#fff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=1;strokeWidth=3;spacingTop=6;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="200" y="250" width="140" height="110" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Software System Name" c4Description="Description&#xa;ex.: List of Software System Capabilities" label="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;[Software System]&lt;/div&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="YA2zRdpT1ZW4sB87_xnx-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#fff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=10;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
-            <mxGeometry x="170" y="480" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Software System Name" c4Description="Description&#xa;ex.: List of Software System Capabilities" label="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;[Software System]&lt;/div&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="YA2zRdpT1ZW4sB87_xnx-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#fff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=10;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
-            <mxGeometry x="520" y="480" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
       </root>
     </mxGraphModel>
   </diagram>
